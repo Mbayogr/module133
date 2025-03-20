@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--
-    Author      : grgeory Mbayo
+    Author      : Gregory Mbayo
     Date        : 20.03.2025
     Description : genere un nombre aléatoire entre 1 et 80 et affiche affiche la tranche d'age selon le nombre
                  

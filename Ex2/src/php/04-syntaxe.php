@@ -1,5 +1,5 @@
 <!--
-    Author      : grgeory Mbayo
+    Author      : Gregory Mbayo
     Date        : 20.03.2025
     Description : Créer une fonction pour calculer un nombre à la puissance désirée.
                  

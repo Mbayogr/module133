@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--
-    Author      : grgeory Mbayo
+    Author      : Gregory Mbayo
     Date        : 20.03.2025
     Description : genere un nombre aléatoire entre 1 et 25.
                  si le nombre est inférieur à 18, afficher « Vous êtes mineur », sinon afficher « Vous êtes majeur ».

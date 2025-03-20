@@ -1,5 +1,5 @@
 <!--
-    Author      : grgeory Mbayo
+    Author      : Gregory Mbayo
     Date        : 20.03.2025
     Description : Créer un code pour trouver les 10 premiers nombres de la suite de Fibonacci.
                  
