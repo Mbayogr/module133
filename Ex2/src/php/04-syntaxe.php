@@ -7,7 +7,7 @@
 <html lang="fr">
     <head>
         <meta charset="utf-8" />
-        <title>Syntaxe - boucles</title>
+        <title>exercice 2.4</title>
     </head>
     <body>
             <?php
